@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="Henrique Couto Machado — AI Builder: agentes, automação e dados com IA generativa">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1f17"/>
+      <stop offset="0.55" stop-color="#0f2a20"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.78" cy="0.45" r="0.45">
+      <stop offset="0" stop-color="#34d399" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="300" fill="url(#bg)"/>
+  <rect width="1280" height="300" fill="url(#glow)"/>
+
+  <!-- grafo de agentes: nós e conexões -->
+  <g stroke="#6ee7b7" stroke-opacity="0.35" stroke-width="1.5" fill="none">
+    <path d="M880 150 L990 80 L1110 110 L1200 60"/>
+    <path d="M880 150 L1000 200 L1120 175 L1210 230"/>
+    <path d="M990 80 L1000 200"/>
+    <path d="M1110 110 L1120 175"/>
+    <path d="M1110 110 L1210 150 L1120 175"/>
+  </g>
+  <g fill="#0f2a20" stroke="#6ee7b7" stroke-width="2">
+    <circle cx="880" cy="150" r="14" fill="#34d399" stroke="none"/>
+    <circle cx="990" cy="80" r="9"/>
+    <circle cx="1000" cy="200" r="9"/>
+    <circle cx="1110" cy="110" r="9"/>
+    <circle cx="1120" cy="175" r="9"/>
+    <circle cx="1210" cy="150" r="7"/>
+    <circle cx="1200" cy="60" r="6"/>
+    <circle cx="1210" cy="230" r="6"/>
+  </g>
+
+  <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+    <text x="72" y="118" fill="#f9fafb" font-size="46" font-weight="700">Henrique Couto Machado</text>
+    <text x="72" y="166" fill="#6ee7b7" font-size="26" font-weight="600">AI Builder · Agentes · Automação · Dados</text>
+    <text x="72" y="210" fill="#d1d5db" font-size="19">Soluções com IA generativa que resolvem problemas reais,</text>
+    <text x="72" y="238" fill="#d1d5db" font-size="19">com a disciplina de segurança de quem vem de cloud e cyber.</text>
+  </g>
+</svg>

@@ -1,103 +1,64 @@
-![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/user-attachments/assets/42a6b04c-30be-46ac-8919-7438b2088b25)
+<img src="assets/banner.svg" alt="Henrique Couto Machado — AI Builder: agentes, automação e dados com IA generativa" width="100%"/>
 
-<h1 align="center">☁️ Henrique Couto Machado</h1>
-<p align="center">
-  <strong>Cloud | Cybersecurity | DevSecOps | IaC</strong><br/>
-  Estudante de Tecnologia com foco em Segurança da Informação e Nuvem
-</p>
+Construo **soluções com IA generativa que resolvem problemas de negócio de ponta a ponta**: agentes que executam tarefas, automações que tiram trabalho manual do caminho e análises de dados que viram decisão.
 
-<p align="center">
-  <a href="mailto:henriquecmh2@gmail.com">📧 Email</a> • 
-  <a href="https://github.com/henriquecm02" target="_blank">💻 GitHub</a> • 
-  <a href="https://linkedin.com/in/seulinkedin" target="_blank">🔗 LinkedIn</a>
-</p>
+Venho de **cloud e cibersegurança**, e isso aparece no jeito de construir: o modelo interpreta e o código confere, ações sensíveis passam por aprovação humana, segredos nunca entram no repositório e resultado só é afirmado depois de medido.
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 🚀 Projeto em destaque
 
-Sou estudante de Tecnologia com foco em **Cloud Computing**, **Cibersegurança**, **DevSecOps** e **Infraestrutura como Código (IaC)**. Estou construindo minha jornada profissional com projetos práticos, certificações e participação em **CTFs**, bootcamps e imersões voltadas à segurança da informação e ambientes cloud.
+#### [🗂️ AI Business Operations Agent](https://github.com/henriquecm02/ai-business-operations-agent)
 
-Meus projetos estão organizados em pastas por área de estudo, como segurança ofensiva, automação, hardening, análise de tráfego, monitoramento e cloud IaC.
+Um agente que recebe um pedido em português e transforma uma pasta de notas fiscais, faturas, e-mails de cobrança e contratos em **planilha, gráficos e relatório executivo**, apontando cobranças duplicadas, totais divergentes e vencimentos.
 
----
-
-### 🔐 Áreas de Interesse
-
-- ☁️ Arquitetura Segura na Nuvem (AWS, Azure, GCP)  
-- ⚙️ DevSecOps & CI/CD Seguro  
-- 🔐 IAM e Zero Trust  
-- 🔧 Infraestrutura como Código (Terraform, Ansible)  
-- 🛡️ Segurança Ofensiva e Defensiva (Red & Blue Team)  
-- 🧪 CTFs, SIEM, Threat Detection e Logs  
+| | |
+|---|---|
+| **Como funciona** | Gemini com *function calling* orquestra ferramentas de extração, análise (pandas), planilha, gráficos e relatório; um **revisor independente** confere o resultado; ações sensíveis exigem **aprovação humana** |
+| **Resultados medidos** | 2 de 2 problemas plantados detectados · 0 valores inventados no relatório · 98% de acurácia na extração · 28 s do pedido aos arquivos prontos ([benchmark reproduzível](https://github.com/henriquecm02/ai-business-operations-agent#resultados-medidos)) |
+| **Também tem** | Servidor **MCP**, dashboard em Streamlit, prompts versionados com comparação v1 → v2, testes offline e CI |
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 🧭 Como eu construo
 
-#### ☁️ Cloud & IAM
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-Security--First-blue?style=for-the-badge&logo=auth0&logoColor=white)
-
-#### 🧪 Segurança da Informação
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-F47F24?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-212121?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0033?style=for-the-badge&logo=snort&logoColor=white)
-![Suricata](https://img.shields.io/badge/Suricata-F05A28?style=for-the-badge&logo=suricata&logoColor=white)
-
-#### ⚙️ IaC & DevSecOps
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-#### 💻 Programação & Scripts
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- **O LLM interpreta, o código calcula.** Somas, datas e regras de negócio ficam em código testável; o modelo não é a fonte dos números.
+- **Medir antes de afirmar.** Cada projeto traz um benchmark reproduzível e mostra também o que deu errado e como foi corrigido.
+- **Humano no controle.** Toda ação com efeito externo passa por aprovação.
+- **Simples primeiro.** Só uso vários agentes quando a separação traz ganho real, e documento essa decisão.
 
 ---
 
-### 📁 Organização de Projetos
+### 🧰 Ferramentas
 
+- **IA generativa:** Gemini API (function calling, saída estruturada) · MCP · engenharia de prompts · RAG (embeddings, FAISS) · Claude Code
+- **Dados e ML:** Python · pandas · scikit-learn · MLflow · Streamlit · Jupyter
+- **Cloud e infraestrutura:** Azure · Docker · Linux · Bash · GitHub Actions
+- **Segurança:** fundamentos de segurança da informação, análise de tráfego, hardening de Linux
 
+---
+
+### 📂 Outros projetos
+
+| Área | Projeto | O que é |
+|---|---|---|
+| Dados / ML | [nyc-rental-price-prediction](https://github.com/henriquecm02/nyc-rental-price-prediction) | Previsão de preço de aluguel em Nova York: EDA, geodados, NLP nos títulos e comparação de modelos com Pipeline |
+| Dados / ML | [imdb-rating-prediction](https://github.com/henriquecm02/imdb-rating-prediction) | Análise exploratória e previsão de nota de filmes |
+| Dados / ML | [demand-forecast-architecture](https://github.com/henriquecm02/demand-forecast-architecture) | Arquitetura para previsão de demanda: features sazonais, Prophet, pipeline e monitoramento |
+| Dados | [cyclistic-bike-share-analysis](https://github.com/henriquecm02/cyclistic-bike-share-analysis) | Estudo de caso de análise de dados com recomendações de negócio |
+| IA generativa | [sios-gemini-security-assistant](https://github.com/henriquecm02/sios-gemini-security-assistant) | Protótipo de assistente de cibersegurança com Gemini e Gmail |
+| Infra | [docker-microservices-nginx](https://github.com/henriquecm02/docker-microservices-nginx) · [linux-users-permissions-iac](https://github.com/henriquecm02/linux-users-permissions-iac) · [apache-webserver-provisioning](https://github.com/henriquecm02/apache-webserver-provisioning) | Docker Compose com proxy reverso e automação de Linux em Bash |
 
 ---
 
 ### 📜 Certificações
 
-- ☁️ Microsoft Certified: Azure Administrator (AZ-104)  
-- 📊 Microsoft Certified: Data Scientist Associate (DP-100)  
-- 🔐 ISC2: Certified in Cybersecurity (CC)  
-- 🧰 Cisco: Cyber Threat & Network Security  
-- 🐍 Cisco: Python for Cybersecurity  
+- Microsoft Certified: Azure Data Scientist Associate (DP-100)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- ISC2 Certified in Cybersecurity (CC)
+- Cisco: Cyber Threat & Network Security
+- Cisco: Python for Cybersecurity
 
 ---
 
-### 📈 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecm02&layout=compact&theme=radical" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=henriquecm02&theme=radical" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henriquecm02&theme=radical" />
-</p>
-
-> 💡 As estatísticas acima focam em **consistência e aprendizado**, não em volume de commits. Meu foco está em **qualidade, estrutura e conhecimento aplicado**.
-
----
-
-### ✍️ Frase que me motiva
-
-> “A segurança não é um produto, é uma cultura integrada no ciclo de vida da tecnologia.”
-
----
+📧 **Contato:** [henriquecmh2@gmail.com](mailto:henriquecmh2@gmail.com)
