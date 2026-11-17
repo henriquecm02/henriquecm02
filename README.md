@@ -26,11 +26,11 @@ Um agente que recebe um pedido em português e transforma uma pasta de notas fis
 |---|---|---|
 | [📈 intelligent-data-dashboard](https://github.com/henriquecm02/intelligent-data-dashboard) | Coleta câmbio, juros e inflação do Banco Central, dispara alertas e tem um dashboard com resumo semanal por IA | Coleta incremental; todo número do texto da IA é conferido contra os dados |
 | [⚙️ ai-workflow-automation](https://github.com/henriquecm02/ai-workflow-automation) | 5 workflows de n8n: triagem de e-mails, documentos, atas, pesquisa com fontes e boletim de indicadores | Workflows gerados por código; teste de ponta a ponta no **n8n real** (11/11 casos) com CI |
-| [📚 ai-knowledge-assistant](https://github.com/henriquecm02/ai-knowledge-assistant) | RAG sobre políticas internas, com documento, seção e página de cada resposta | Busca BM25 + embeddings com RRF; citações verificadas; responde "não encontrei" quando falta fonte |
+| [📚 ai-knowledge-assistant](https://github.com/henriquecm02/ai-knowledge-assistant) | RAG sobre políticas internas, com documento, seção e página de cada resposta | Busca BM25 + embeddings com RRF e reordenação; citações verificadas; 38 perguntas medidas com o Gemini real (37/38; 38/38 com reordenação) |
 | [🛋️ marketplace-business-intelligence](https://github.com/henriquecm02/marketplace-business-intelligence) | BI de um marketplace fictício e um analista de IA que responde perguntas da diretoria | Dados sintéticos com gabarito; SQL somente leitura; análises verificáveis |
 | [🗓️ ai-productivity-copilot](https://github.com/henriquecm02/ai-productivity-copilot) | Servidor MCP com tarefas, notas, agenda e plano do dia | Ferramentas, *resources* e *prompts* via MCP |
 
-> **Status honesto:** a lógica, as regras de negócio e os testes desses cinco projetos rodam offline e passam no CI. A validação com o **Gemini real** (formato da requisição e qualidade das respostas) ainda está pendente e marcada como tal em cada README.
+> **Status honesto:** os cinco projetos foram validados com o **Gemini real** em amostras pequenas (de 6 a 38 perguntas, um modelo, uma rodada), e cada README mostra os resultados **incluindo o que falhou**: uma injeção de prompt que o modelo obedeceu, um analista que respondeu no nível de item e deixou passar a tendência real, e um modo híbrido que perdeu para o denso. São verificações do fluxo, não medidas de acurácia em produção.
 
 ---
 
