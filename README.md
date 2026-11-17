@@ -69,7 +69,6 @@ Um agente que recebe um pedido em português e transforma uma pasta de notas fis
 
 - Claude Certified Architect – Foundations (Anthropic)
 - AWS Certified AI Practitioner (em conclusão)
-- ISC2 Certified in Cybersecurity (CC)
 - Cisco: Cyber Threat & Network Security
 - Cisco: Python for Cybersecurity
 
