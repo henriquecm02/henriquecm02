@@ -67,8 +67,8 @@ Um agente que recebe um pedido em português e transforma uma pasta de notas fis
 
 ### 📜 Certificações
 
-- Microsoft Certified: Azure Data Scientist Associate (DP-100)
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Claude Certified Architect – Foundations (Anthropic)
+- AWS Certified AI Practitioner (em conclusão)
 - ISC2 Certified in Cybersecurity (CC)
 - Cisco: Cyber Threat & Network Security
 - Cisco: Python for Cybersecurity
