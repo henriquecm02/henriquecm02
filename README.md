@@ -6,7 +6,17 @@ Venho de **cloud e cibersegurança**, e isso aparece no jeito de construir: o mo
 
 ---
 
-### 🚀 Projeto em destaque
+### 🚀 Projetos em destaque
+
+#### [🛡️ AI Fraud Triage Agent](https://github.com/henriquecm02/ai-fraud-triage-agent)
+
+Um agente que faz a **triagem de denúncias de golpe em pedidos de delivery**. Ele lê o relato do cliente, o chat do pedido e o GPS da entrega, identifica o golpe e cita a evidência. Cobre cobrança extra na maquininha, código de entrega pedido antes da chegada, falso atendente, link malicioso e contestação falsa, e monta a fila de trabalho do analista.
+
+| | |
+|---|---|
+| **Como funciona** | O Gemini classifica em lotes com saída por JSON Schema. O código confere se cada citação existe no texto e cruza tudo com sinais objetivos (distância em que o código foi validado, links, valores), que o modelo não vê. Estorno e suspensão só acontecem com **aprovação humana**, e nenhum cliente é acusado por mensagem automática |
+| **Resultados medidos** | 48/48 casos com o Gemini real, contra 35/48 só com regras · 17/17 num conjunto difícil, com dois modelos · 0 clientes acusados indevidamente · injeções de prompt sempre enviadas para revisão ([benchmark](https://github.com/henriquecm02/ai-fraud-triage-agent#resultados)) |
+| **O que falhou** | Uma injeção informal escapava da trava por regex. Virou uma segunda camada, com o modelo apontando tentativas de manipulação, sem decorar o caso de teste. As duas versões estão documentadas |
 
 #### [🗂️ AI Business Operations Agent](https://github.com/henriquecm02/ai-business-operations-agent)
 
@@ -74,4 +84,4 @@ Um agente que recebe um pedido em português e transforma uma pasta de notas fis
 
 ---
 
-📧 **Contato:** [henriquecmh2@gmail.com](mailto:henriquecmh2@gmail.com)
+🌐 **Portfólio:** [henriquecm02.github.io](https://henriquecm02.github.io) · 📧 **Contato:** [henriquecmh2@gmail.com](mailto:henriquecmh2@gmail.com)
