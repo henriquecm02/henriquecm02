@@ -40,7 +40,7 @@ Um agente que recebe um pedido em português e transforma uma pasta de notas fis
 | [🛋️ marketplace-business-intelligence](https://github.com/henriquecm02/marketplace-business-intelligence) | BI de um marketplace fictício e um analista de IA que responde perguntas da diretoria | Dados sintéticos com gabarito; SQL somente leitura; análises verificáveis |
 | [🗓️ ai-productivity-copilot](https://github.com/henriquecm02/ai-productivity-copilot) | Servidor MCP com tarefas, notas, agenda e plano do dia | Ferramentas, *resources* e *prompts* via MCP |
 
-> **Status honesto:** os cinco projetos foram validados com o **Gemini real** em amostras pequenas (de 6 a 38 perguntas, um modelo, uma rodada), e cada README mostra os resultados **incluindo o que falhou**: uma injeção de prompt que o modelo obedeceu, um analista que respondeu no nível de item e deixou passar a tendência real, e um modo híbrido que perdeu para o denso. São verificações do fluxo, não medidas de acurácia em produção.
+> **Status honesto:** os cinco projetos desta tabela foram validados com o **Gemini real** em amostras pequenas (de 6 a 38 perguntas, um modelo, uma rodada), e cada README mostra os resultados **incluindo o que falhou**: uma injeção de prompt que o modelo obedeceu, um analista que respondeu no nível de item e deixou passar a tendência real, e um modo híbrido que perdeu para o denso. São verificações do fluxo, não medidas de acurácia em produção.
 
 ---
 
@@ -78,7 +78,8 @@ Um agente que recebe um pedido em português e transforma uma pasta de notas fis
 ### 📜 Certificações
 
 - Claude Certified Architect – Foundations (Anthropic)
-- AWS Certified AI Practitioner (em conclusão)
+- AWS Certified Cloud Practitioner
+- AWS Certified AI Practitioner (em andamento)
 - Cisco: Cyber Threat & Network Security
 - Cisco: Python for Cybersecurity
 
